@@ -6,6 +6,21 @@
 
 > Starter project for Express.js + Babel API
 
+## Features/Packages Included
+
+- Express.js
+- Babel (ES6)
+- Jest
+- Joi Schema Validation
+- ESLint w/ Prettier + Security
+- Dotenv
+- Google App Engine deploy config
+- Express Middleware
+  - Helmet
+  - CORS
+  - Cookie Parser
+  - Error handling
+
 ## Prerequisites
 
 - node 14.X
