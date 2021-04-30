@@ -11,7 +11,6 @@ import config from './config'
 dotenv.config()
 
 import indexRouter from './routes/index'
-import { ValidationError } from './errors'
 
 // Init express app
 const app = express()
